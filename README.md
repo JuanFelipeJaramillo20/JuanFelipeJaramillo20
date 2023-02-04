@@ -1,4 +1,4 @@
-[![MasterHead](banner.png)]
+![MasterHead](banner.png)
 
 <h1 align="center">Hi 👋, I'm Juan Felipe</h1>
 <h3 align="center">A passionate developer.</h3>
