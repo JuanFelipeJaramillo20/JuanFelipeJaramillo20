@@ -30,7 +30,7 @@
 </h2>
 
 <p align = "center">
-![snake gif](https://github.com/JuanFelipeJaramillo20/JuanFelipeJaramillo20/blob/output/github-contribution-grid-snake.gif)
+<img src="https://github.com/JuanFelipeJaramillo20/JuanFelipeJaramillo20/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
   
 <h2 align="center">
