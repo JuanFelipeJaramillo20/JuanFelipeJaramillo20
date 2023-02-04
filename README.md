@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **juanfelipejaramillolosada@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1a4rm4NB9UVL8NoS8tGV2tW4xuWWq4XTe/view?usp=sharing](https://drive.google.com/file/d/1a4rm4NB9UVL8NoS8tGV2tW4xuWWq4XTe/view?usp=sharing)
+- 📄 Know about my experiences [My CV](https://drive.google.com/file/d/1a4rm4NB9UVL8NoS8tGV2tW4xuWWq4XTe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
