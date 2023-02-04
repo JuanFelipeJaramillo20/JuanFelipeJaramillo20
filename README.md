@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/DT6CIxg)]([your GitHub link](https://github.com/JuanFelipeJaramillo20))
+[![MasterHead](banner.png)]([your GitHub link](https://github.com/JuanFelipeJaramillo20))
 
 <h1 align="center">Hi 👋, I'm Juan Felipe</h1>
 <h3 align="center">A passionate developer.</h3>
